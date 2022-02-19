@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Atul Singh</h1>
 <h3 align="center">Prefinal IT undergraduate at NIT Raipur, Web Developer</h3>
-<img src"https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif"/>
+<div align ="center" >
+<img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif"  />
+  </div>
 
 - 🌱 I’m currently learning **Web Dev**
 
